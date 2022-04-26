@@ -1,6 +1,8 @@
-# adminpanel
+# Admin Panel
 
 A new Flutter project.
+
+<img src="scr.png"/>
 
 ## Getting Started
 
